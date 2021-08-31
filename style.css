@@ -1,0 +1,86 @@
+body {
+  background-color: #d6e1ff;
+  text-align: center;
+  font-family: "Lexend Deca", sans-serif;
+}
+.card {
+  background-color: white;
+  width: 400px;
+  border-radius: 15px;
+  margin: 100px auto;
+}
+span {
+  display: block;
+  font-weight: bold;
+  font-size: larger;
+  margin: 20px auto;
+}
+img {
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  width: 100%;
+}
+p {
+  padding: 0px 40px;
+  color: rgba(0, 0, 0, 0.8);
+}
+.plane {
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 80%;
+  margin: 40px auto;
+  border-radius: 10px;
+  position: relative;
+}
+.plane a {
+  text-align: right;
+  font-weight: 700;
+  color: #382ae1;
+  font-family: "Lexend Deca", sans-serif;
+}
+.plane p {
+  color: black;
+  font-weight: 700;
+  text-align: left;
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.plane span {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: small;
+  margin: 5px auto;
+}
+.plane img {
+  height: 100%;
+  width: auto;
+  align-items: left;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+button {
+  width: 80%;
+  margin: 20px auto;
+  color: #2d2a4d;
+  font-weight: 700;
+  background-color: transparent;
+  text-align: center;
+  display: block;
+  border: none;
+  height: 60px;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.blue-btn {
+  width: 80%;
+  margin: 40px auto 0px auto;
+  color: white;
+  background-color: #382ae1;
+  box-shadow: 0px 10px 20px 0px rgba(56, 42, 225, 0.5);
+  text-align: center;
+  display: block;
+  border: none;
+  height: 60px;
+  border-radius: 20px;
+}
